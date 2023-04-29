@@ -1,6 +1,6 @@
-!Hola
+Hola!
 
-# soy Marcelo Coria 👋
+# Soy Marcelo Coria 👋
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un entusiasta de la programación y un apasionado de la tecnología con experiencia como analista funcional. Me encanta aprender sobre nuevas tecnologías y explorar diferentes áreas dentro del mundo de la programación. 🚀
 
