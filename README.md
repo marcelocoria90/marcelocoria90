@@ -39,6 +39,7 @@ Desde el 2015, me he capacitado y adquirido experiencia en los siguientes lengua
 - Git
 
 🤓 Estoy constantemente explorando nuevas herramientas y marcos de trabajo, siempre en busca de oportunidades para aprender y expandir mis habilidades.
+
 ---
 🏢 **Telecentro**: [2017-2021] 
 Analista funcional - pl/sql.
