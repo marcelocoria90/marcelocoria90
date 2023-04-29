@@ -9,7 +9,7 @@ El siguiente cutrimestre seguire cursando la tecnicatura en desarrollo de soft e
 
 ## ⚡Experiencia y habilidades
 
-1. 🏢 **Provincia ART**:
+🏢 **Provincia ART**:
 Desde el 2021, me he desempeñado como analista funcional, estoy involucrado en algunos proyectos de negocios internos, donde he realizado diversas tareas, tales como:
 
 - Documentación para programadores Delphi
@@ -39,8 +39,8 @@ Desde el 2015, me he capacitado y adquirido experiencia en los siguientes lengua
 - Git
 
 🤓 Estoy constantemente explorando nuevas herramientas y marcos de trabajo, siempre en busca de oportunidades para aprender y expandir mis habilidades.
-
-1. 🏢 **Telecentro**: [2017-2021] 
+---
+🏢 **Telecentro**: [2017-2021] 
 Analista funcional - pl/sql.
 
 ## 💪 Objetivos 
