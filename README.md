@@ -52,8 +52,8 @@ Mi objetivo principal es trabajar como programador, donde pueda aplicar mi creat
 
 Si quieres colaborar en algún proyecto interesante o simplemente quieres ponerte en contacto conmigo, no dudes en hacerlo a través de:
 
-- 📩 **Correo electrónico**: ![e-mail](coria.marcelo.90@gmail.com)
-- 🔷 **LinkedIn**: ![Linkedin](https://www.linkedin.com/in/marcelo-coria/)
+- 📩 **Correo electrónico**: coria.marcelo.90@gmail.com
+- 🔷 **LinkedIn**: [Linkedin](https://www.linkedin.com/in/marcelo-coria/)
 - 🐦 **Twitter**: [Twitter](https://twitter.com/marceelo_coriia)
 
 Agradezco tu visita a mi perfil de GitHub. 
