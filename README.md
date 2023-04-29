@@ -36,7 +36,7 @@ Desde el 2015, me he capacitado y adquirido experiencia en los siguientes lengua
 - Next.js
 - Node.js
 - Express
-- Git
+- GitHub
 
 🤓 Estoy constantemente explorando nuevas herramientas y marcos de trabajo, siempre en busca de oportunidades para aprender y expandir mis habilidades.
 
