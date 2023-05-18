@@ -19,7 +19,7 @@ Desde el 2020, me he desempeñado como analista funcional, estoy involucrado en 
 - Configuración de alertas
 - Diseño de estructuras de tablas, funciones, stored procedures y triggers en bases de datos Oracle PL/SQL
 
-Recientemente, he comenzado a formar parte del proyecto web PAS, donde colaboro con una consultora externa encargada de llevar a cabo la migración y capacitar al equipo de sistemas en las nuevas tecnologías y metodologias agiles que se utilizarán.
+Recientemente, he comenzado a formar parte de un nuevo proyecto, donde colaboro con una consultora externa encargada de llevar a cabo la migración y capacitar al equipo de sistemas en las nuevas tecnologías y metodologias agiles que se utilizarán.
 
 Estoy entusiasmado por trabajar en nuevos proyectos que se desarrollen en entornos con arquitecturas de Node.js. De hecho, me he ofrecido como recurso y me he unido al equipo que se está capacitando en estas tecnologías.
 
