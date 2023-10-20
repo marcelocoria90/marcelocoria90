@@ -23,20 +23,21 @@ Recientemente, he comenzado a formar parte de un nuevo proyecto, donde colaboro 
 
 Estoy entusiasmado por trabajar en nuevos proyectos que se desarrollen en entornos con arquitecturas de Node.js. De hecho, me he ofrecido como recurso y me he unido al equipo que se está capacitando en estas tecnologías.
 
-Desde el 2015, me he capacitado y adquirido experiencia en los siguientes lenguajes y tecnologías 🌱:
+Desde el 2015, me vengo capacitado y adquiriendo experiencia en los siguientes lenguajes y tecnologías 🌱:
 
+- mySql
 - C#
-- Oracle
-- .NET Core
 - Java
-- JavaScript
+- Oracle pl/sql
+- .NET Core
+- GitHub
 - HTML
 - CSS
-- React
-- Next.js
+- JavaScript
 - Node.js
 - Express
-- GitHub
+- React
+- Next.js
 
 🤓 Estoy constantemente explorando nuevas herramientas y marcos de trabajo, siempre en busca de oportunidades para aprender y expandir mis habilidades.
 
